@@ -1,0 +1,9 @@
+{
+	"42header.username": "yuuko",
+	"42header.email": "yuuko@student.42.fr",
+	"files.associations": {
+		"color.h": "c",
+		"render.h": "c",
+		"window.h": "c"
+	},
+}
